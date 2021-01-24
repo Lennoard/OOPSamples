@@ -16,7 +16,7 @@ public class ExecutaBanco {
                     System.out.println("Digite o número");
                     c.setNumero(sc.next());
                     c.depositar(sc.nextDouble());
-                    banco.inserir(c);
+                    //banco.inserir(c);
                     break;
                 case "2":
                     break;
